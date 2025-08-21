@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fatima Nadeem</h1>
-<h3 align="center">AI professional with expertise in Python, web development, and machine learning. Focused on delivering smart solutions and growing within a dynamic team.</h3>
+<h3 align="center">👩‍💻 AI & ML Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
